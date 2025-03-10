@@ -1,1 +1,1 @@
-com.dragon.read,番茄免费小说,12,36000,false,loc
+com.xunmeng.pinduoduo,拼多多,12,3600,false,loc
